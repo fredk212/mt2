@@ -66,19 +66,8 @@ function initialize() {
   var georssLayer = new google.maps.KmlLayer({
     url: 'https://www.google.com/maps/d/viewer?mid=zrvhKWbQZI6E.kyr3RvQ9DprE'
   });
-
+  
   georssLayer.setMap(map);
-
-
-  google.maps.event.addListener(georssLayer, 'click', function(georssLayer) {
-    var text = georssLayer.featureData.description;
-    showInContentWindow(text);
-  });
-
-  function showInContentWindow(text) {
-    var sidediv = document.getElementById('content-window');
-    sidediv.innerHTML = text;
-  }
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
@@ -118,8 +107,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
   <!--end nav-->
 
     <div class="container" id="map-canvas"></div>
-    </br>
-    <div id="content-window" style="width:100%;float:none; text-align: center;"></div>
+
     
   </body>
 </html>
