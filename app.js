@@ -12,6 +12,9 @@ app.use(express.static(__dirname + '/'));
 app.get('',function(req,res){
 	res.render('index.html')
 });
+app.get('/Waypoints',function(req,res){
+	res.render('Waypoints.kml')
+});
 
 //server
 app.listen(process.env.PORT || 5000)
