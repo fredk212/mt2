@@ -1,8 +1,15 @@
-html {background: url('/img/texture_back.jpg') repeat scroll 0% 0% #F1EEE5;}
-.content {
-  margin-top: 50px;
+html {
   background: url('/img/texture_back.jpg') repeat scroll 0% 0% #F1EEE5;
 }
+html, body{
+        height: 100%;
+      }
+#map-canvas{
+  height:50%;
+  width:50%;
+}
+
+
 .navbar-brand > img{
   max-height:50px!important;
   display: block;
@@ -34,4 +41,7 @@ html {background: url('/img/texture_back.jpg') repeat scroll 0% 0% #F1EEE5;}
   margin: auto;
   z-index:-1!important;
   }
+  #map-canvas{
+  width:100%;
+}
 }
