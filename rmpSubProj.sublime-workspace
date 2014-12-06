@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"poll/:pollId"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"ma",
+				"main	<main>"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"canva",
+				"canvasdiv"
+			],
+			[
+				"controll",
+				"controllerAs"
+			],
+			[
+				"res",
+				"restrict"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"sci",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js\"></script>\n	<link href=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css\" rel=\"stylesheet\">\n	<script src=\"//ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js\"></script>\n	<title>Document</title>\n</head>\n<body>\n	<h1> APPLICATION</h1>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 435,
+			"file_write_time": 130622829218618000,
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"file",
+				"File: Copy as Tag style"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"asd",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"install SublimeCodeIntel;",
+			"install SublimeCodeIntel"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Fred/Desktop/fk/MobileTest",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules"
+	],
+	"file_history":
+	[
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/ejs/package.json",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/ejs/index.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/request/node_modules/combined-stream/lib/combined_stream.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-auto-pause.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/chalk/node_modules/ansi-styles/ansi-styles.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-http-upload.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/ejs/benchmark.js",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/configstore/node_modules/js-yaml/bower.json",
+		"/C/Users/Fred/Desktop/fk/MobileTest/node_modules/nodemon/node_modules/update-notifier/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_writable.js",
+		"/C/Users/Fred/Desktop/fk/mt2/gulpfile.js",
+		"/C/Users/Fred/Desktop/fk/mt2/app/basic.html",
+		"/C/Users/Fred/Desktop/fk/MobileTest/index.html",
+		"/C/Users/Fred/Desktop/fk/rmp/public/modules/core/controllers/home.client.controller.js",
+		"/C/Users/Fred/Desktop/fk/rmp/public/modules/core/views/home.client.view.html",
+		"/C/Users/Fred/Desktop/fk/meanProject/notes.txt",
+		"/C/Users/Fred/Desktop/fk/rmp/public/modules/core/img/sss.txt",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/yeoman-environment/node_modules/mem-fs/node_modules/vinyl-file/node_modules/graceful-fs/polyfills.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/components/learnboost-socket.io-protocol/component.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-ng-annotate/node_modules/ng-annotate/node_modules/convert-source-map/test/fixtures/map-file-comment.css.map",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/FileContentView.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/lib/grunt/file.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/lib/file_list.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/bower/node_modules/mout/object/forIn.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/fig.yml",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/component.json",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/component.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/components/learnboost-socket.io-protocol/component.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/component.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/component.json",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/bower/node_modules/tar-fs/node_modules/tar-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/bower/node_modules/tar-fs/node_modules/tar-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/strip-json-comments.cmd",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/yo/node_modules/yeoman-generator/node_modules/gruntfile-editor/node_modules/ast-query/node_modules/escodegen/node_modules/source-map/node_modules/amdefine/intercept.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/gruntfile-editor/node_modules/ast-query/node_modules/escodegen/node_modules/source-map/node_modules/amdefine/intercept.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/yeoman-generator/node_modules/gruntfile-editor/node_modules/ast-query/node_modules/escodegen/node_modules/source-map/node_modules/amdefine/intercept.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/gruntfile-editor/node_modules/ast-query/node_modules/escodegen/node_modules/source-map/node_modules/amdefine/intercept.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/strip-json-comments",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-request-protocols.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-request-protocols.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/yo/node_modules/update-notifier/node_modules/latest-version/node_modules/package-json/node_modules/registry-url/node_modules/rc/node_modules/strip-json-comments/strip-json-comments.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/update-notifier/node_modules/latest-version/node_modules/package-json/node_modules/registry-url/node_modules/rc/node_modules/strip-json-comments/strip-json-comments.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/supertest/node_modules/superagent/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-auto-pause.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/supertest/node_modules/superagent/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-pause.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/supertest/node_modules/superagent/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-proxy-readable.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/supertest/node_modules/superagent/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-pipe-resumes.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/supertest/node_modules/superagent/node_modules/readable-stream/node_modules/core-util-is/float.patch",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/ISecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/ISecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLSecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLSecurityParameters.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/forever/node_modules/nconf/test/fixtures/scripts/nconf-change-argv.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/strip-json-comments/strip-json-comments.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TripleDESKeyTest.as",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tests/TripleDESKeyTest.as",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/sourcemap.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/scope.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/rewriter.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/repl.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/register.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/parser.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/optparse.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/nodes.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/lexer.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/index.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/helpers.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/grammar.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/command.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/cake.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/browser.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/sourcemap.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/scope.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/rewriter.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/repl.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/register.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/parser.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/optparse.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/nodes.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/lexer.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/index.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/helpers.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/grammar.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/command.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/cake.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/ibrik/node_modules/coffee-script/lib/coffee-script/browser.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/scope.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/rewriter.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/repl.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/parser.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/optparse.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/nodes.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/lexer.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/index.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/helpers.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/grammar.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/command.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/cake.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/browser.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/istanbul/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/istanbul/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/karma-coverage/node_modules/istanbul/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/karma-coverage/node_modules/istanbul/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/shelljs/scripts/generate-docs.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/generator-meanjs/node_modules/yeoman-generator/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/bower/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/bower/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/bower/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/bower/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js",
+		"/C/Users/Fred/Desktop/fk/rmp/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/yeoman-environment/node_modules/yeoman-generator/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/yo/node_modules/shelljs/scripts/run-tests.js",
+		"/C/Users/Fred/Desktop/fk/meanProject/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/cm/javascript.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"logo",
+			"ng-show",
+			"routes.index",
+			"app.get('/', routes.index)",
+			"append",
+			"key1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+							"open_with_edit": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rmpSubProj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
