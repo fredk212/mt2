@@ -57,20 +57,20 @@
 function initialize() {
   var myLatlng = new google.maps.LatLng(33.439346,-86.88312500000001);
   var mapOptions = {
-    zoom: 15,
+    zoom: 14,
     center: myLatlng
   }
 
   var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
   var georssLayer = new google.maps.KmlLayer({
-    url: 'https://mapsengine.google.com/map/viewer?hl=en&authuser=0&mid=zrvhKWbQZI6E.kyr3RvQ9DprE',
-    suppressInfoWindows: true
+    url: 'https://www.google.com/maps/d/viewer?mid=zrvhKWbQZI6E.kyr3RvQ9DprE'
   });
+
   georssLayer.setMap(map);
 
 
-   google.maps.event.addListener(georssLayer, 'click', function(georssLayer) {
+  google.maps.event.addListener(georssLayer, 'click', function(georssLayer) {
     var text = georssLayer.featureData.description;
     showInContentWindow(text);
   });
@@ -79,9 +79,6 @@ function initialize() {
     var sidediv = document.getElementById('content-window');
     sidediv.innerHTML = text;
   }
-
-
-
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
@@ -121,8 +118,8 @@ google.maps.event.addDomListener(window, 'load', initialize);
   <!--end nav-->
 
     <div class="container" id="map-canvas"></div>
-    <div id="content-window" style="width:100%; height:10%; float:none,background-color:red;"></div>
-
+    </br>
+    <div id="content-window" style="width:100%;float:none; text-align: center;"></div>
     
   </body>
 </html>
