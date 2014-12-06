@@ -14,7 +14,5 @@ app.get('',function(req,res){
 });
 
 //server
-app.listen(3000,function(){
-	console.log('ready on port 3000');
-})
+app.listen(process.env.PORT || 5000)
 
