@@ -14,7 +14,7 @@ app.get('/',function(req,res){
 });
 
 //server
-app.listen(1337,function(){
-	console.log('ready on port 1337');
+app.listen(3000,function(){
+	console.log('ready on port 3000');
 })
 
