@@ -70,8 +70,8 @@ function initialize() {
   georssLayer.setMap(map);
 
 
-   google.maps.event.addListener(kmlLayer, 'click', function(kmlEvent) {
-    var text = kmlEvent.featureData.description;
+   google.maps.event.addListener(georssLayer, 'click', function(georssLayer) {
+    var text = georssLayer.featureData.description;
     showInContentWindow(text);
   });
 
